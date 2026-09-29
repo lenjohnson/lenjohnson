@@ -5,7 +5,7 @@ Web developer since 2000 · Computing lecturer (Level 5 Diploma in Web Applicati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lenjay-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lenjay)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-D14836?logo=gmail&logoColor=white)](mailto:lenjohnson.uk@gmail.com)
 
-I build web products, and I teach students to build theirs so that someone else can inspect the work: documented, version-controlled, with AI use recorded rather than hidden.
+I build web products, and I teach students to build theirs so that someone else can inspect their work and assess their capability: documented, version-controlled, with AI use recorded rather than hidden.
 
 ## What's here
 
@@ -20,7 +20,7 @@ The template my Level 5 WAD students start from: a README scaffold, an AI-use lo
 | Area | Tools |
 | :--- | :--- |
 | Front end | HTML, CSS, JavaScript |
-| Back end | Python, Django, REST APIs |
+| Back end | PHP, Python, Django, REST APIs |
 | Data | SQL, MySQL, PostgreSQL |
 | Workflow | Git, GitHub, AI-assisted development |
 
