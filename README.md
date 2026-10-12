@@ -7,6 +7,21 @@ Web developer since 2000 · Computing lecturer (Level 5 Diploma in Web Applicati
 
 I build web products, and I teach students to build theirs so that someone else can inspect their work and assess their capability: documented, version-controlled, with AI use recorded rather than hidden.
 
+## VanillaFirst
+
+[VanillaFirst](https://github.com/vanillafirstdev) is the case for building on the platform first: plain HTML, CSS, JavaScript, PHP and SQLite, with no framework and no build step. Three template repos, one for each unit I teach:
+
+**[frontend](https://github.com/vanillafirstdev/frontend)**
+HTML, CSS and JavaScript modules, no server. Form validation, `fetch()`, a Web Component and `localStorage`.
+
+**[backend](https://github.com/vanillafirstdev/backend)**
+A JSON API in PHP and SQLite, no pages. Routing, validation, prepared statements, CORS and an API key, tested with curl before a client exists.
+
+**[fullstack](https://github.com/vanillafirstdev/fullstack)**
+Server-rendered PHP pages and the same API in one app. Sessions, CSRF tokens, Post/Redirect/Get and security headers.
+
+None of them has user accounts, by design. Anything with logins starts from [VanillaSaaS Core](https://github.com/VanillaSaaS/vanillasaas-core): hashed passwords, expiring reset tokens, sign-in rate limiting and session timeouts, already written and free under the MIT licence.
+
 ## What's here
 
 **[prismmo-starter-pack](https://github.com/lenjohnson/prismmo-starter-pack)**
@@ -38,4 +53,4 @@ Student projects are structured like agency repos, so a first job isn't the firs
 
 ## Contact
 
-Educators, students, or anyone using the starter packs: [LinkedIn](https://linkedin.com/in/lenjay) or [email](mailto:lenjohnson.uk@gmail.com).
+Educators, students, or anyone using the starter packs or kits: [LinkedIn](https://linkedin.com/in/lenjay) or [email](mailto:lenjohnson.uk@gmail.com).
