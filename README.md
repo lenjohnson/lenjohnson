@@ -51,6 +51,8 @@ Student projects are structured like agency repos, so a first job isn't the firs
 
 [Loctician](https://loctician.co.uk): The UK's loctician directory.
 
+[Crownbook](https://crwonbook.co.uk): Online booking system for hairdressers (braiders, locticians, wig installers and natural-hair stylists). It gives stylists one link for their website, WhatsApp, Instagram or TikTok bio. Clients follow the link, pick the style, see the price and pay the deposit straight into the Stripe account of the stylist. The booking lands in their diary, and Crownbook takes no commission.
+
 ## Contact
 
 Educators, students, or anyone using the starter packs or kits: [LinkedIn](https://linkedin.com/in/lenjay) or [email](mailto:lenjohnson.uk@gmail.com).
